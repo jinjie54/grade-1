@@ -1,0 +1,14 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.d
+*.gch
+
+# VS Code 配置
+.vscode/
+
+# 调试文件
+*.pdb
+*.ilk
